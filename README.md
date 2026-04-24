@@ -1,15 +1,4 @@
-# Clean Jolt is officialy joever
-Game Jolt just released an update that did some funky stuff with the element ids and now they wont get removed by ublock (lite)
-
-***There is now, truly no way to get around this.***
-
-This repository will now be archived until some miracle comes along, or it transitions to a userscript project.
-
-But in the end, Game Jolt is truly forever.
-
----
-
-### Full development has been halted indefinitely
+# Full development has been halted indefinitely
 Full development of Clean Jolt has been halted until futher notice, due to me being stuck on Chrome and with Manifest V2 being removed.
 
 **There is no way for me to get around this,** until I get an actual computer. (which let's be honest is far away)
